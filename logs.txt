@@ -1,0 +1,36 @@
+commit 5fb279be563d1cd0bca68cbd3b1b6113e222b2c6 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: lupusruber <petarpro234@gmail.com>
+Date:   Mon Apr 3 18:48:33 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 69c675ed99c8b4f5e448c0c22f8ec31b67dd5e63
+Merge: 69a8926 327754f
+Author: lupusruber <petarpro234@gmail.com>
+Date:   Mon Apr 3 18:56:13 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 327754fc9a7b431bcbce077f39f43af6252854ec (origin/bug2, bug2)
+Author: lupusruber <petarpro234@gmail.com>
+Date:   Mon Apr 3 18:41:38 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 69a8926fa3a6fee1eceb76dea31aab4de9d8797a (origin/bug1, bug1)
+Author: lupusruber <petarpro234@gmail.com>
+Date:   Mon Apr 3 18:39:24 2023 +0200
+
+    Fix wrong loop for reading
+
+commit b0412e712f0a25ef7ba10533efc4c32fc5cc0e81
+Author: lupusruber <petarpro234@gmail.com>
+Date:   Mon Apr 3 18:14:20 2023 +0200
+
+    Add java class
+
+commit 765146d14652b09bbe3701a717eac31a0e9c1081
+Author: lupusruber <petarpro234@gmail.com>
+Date:   Mon Apr 3 18:12:22 2023 +0200
+
+    Initial commit
